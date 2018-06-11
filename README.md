@@ -5,6 +5,8 @@ This is a COMP410/510(Computer Graphics) final project.
 
 The game is implemented using C++/OpenGL/GLUT/GLM
 
+[Gameplay Video!](https://www.youtube.com/watch?v=bZC4fZGKzNE)
+
 #### The controls : 
 <pre>
 Q/ESC      : Close the game
@@ -14,5 +16,3 @@ SPACE      : Shoot the balls.
 R          : Reset the game if it is over (There exists a cube at the z = 0 plane).
 ARROW KEYS : If the camera mode is free camera, change the shooting direction.
 <pre/>
-
-[Gameplay Video!](https://www.youtube.com/watch?v=bZC4fZGKzNE)
